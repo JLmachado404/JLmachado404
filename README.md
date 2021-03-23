@@ -7,8 +7,6 @@ tenho interesse nas áreas de desenvolvimento Front-End,manutenção de Software
 [![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/JLmachado404)](https://github.com/JLmachado404);
 [![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/JLmachado404)](https://github.com/JLmachado404);
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/JLmachado404))](https://github.com/JLmachado404);
--🎓 I'm future Software Engineer.
--🤔 I’m looking for help with ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff).
 
 ### Knowledges
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
