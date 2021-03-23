@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hello!, I'm João lucas 
+Atualmente estou cursando Engenharia de software na Universidade Federal de Mato Grosso do Sul - UFMS
+tenho interesse nas áreas de desenvolvimento Front-End,manutenção de Software e Segurança da Informação
 
+### Personal Stuff:
+- 🌱 I’m currently learning: [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/JLmachado404/)](https://github.com/JLmachado404/)
 <!--
 **JLmachado404/JLmachado404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
