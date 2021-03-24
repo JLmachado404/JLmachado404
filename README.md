@@ -1,4 +1,4 @@
-### Hello!, I'm João lucas 
+### Hello!, I'm João Lucas 
 Currently I am majoring in Software Engineering at UFMS (Federal University of Mato Grosso do Sul). 
 I'm looking for opportunities to work in areas such as Front-End development, software maintenance and information security.
 
