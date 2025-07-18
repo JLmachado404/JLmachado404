@@ -1,37 +1,45 @@
-### Hello! I'm João Lucas 
-Currently I am majoring in Software Engineering at UFMS (Federal University of Mato Grosso do Sul). 
-I'm looking for opportunities to work in areas such as Front-End development, software maintenance and information security.
+# 👋 Hello! I'm João Lucas
 
-### Personal Stuff:
-- 🌱 I’m currently learning:  [![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/JLmachado404/)](https://github.com/JLmachado404/) 
-[![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react&link=https://github.com/JLmachado404)](https://github.com/JLmachado404)
-[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/JLmachado404)](https://github.com/JLmachado404)
-[![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&link=https://github.com/JLmachado404)](https://github.com/JLmachado404)
-- 🎓 I'm a future Software Engineer.
-- 🤔 I’m looking for help with ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff).
-- 💬 Ask me about anything, I love to share knowledge.
+🎓 I'm currently majoring in **Software Engineering** at **UFMS** (Federal University of Mato Grosso do Sul), with solid experience as a Back-End Developer and growing expertise in **Data Engineering**.
 
-### Knowledges
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+I'm passionate about building clean, secure, and scalable systems — from APIs to automated data pipelines. I enjoy working across multidisciplinary teams and using data to drive real business impact.
+
+## 🔧 Technologies & Tools
+
+### Languages & Frameworks
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)
+
+### Data & Visualization
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly)
+![Airflow](https://img.shields.io/badge/-Apache%20Airflow-017CEE?style=flat-square&logo=apache-airflow)
 
-### Contact Me
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joão-lucas-silva-machado-ab24601b3/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:jlmachado4004@gmail.com)
-<!--**JLmachado404/JLmachado404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps & Tools
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![VSCode](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Languages
+
+- 🇧🇷 **Portuguese** — Native / Fluent  
+- 🇺🇸 **English** — Advanced
+
+---
+
+## 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-João%20Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joão-lucas-silva-machado-ab24601b3/)](https://www.linkedin.com/in/joão-lucas-silva-machado-ab24601b3/)
+[![Gmail](https://img.shields.io/badge/-jlmachado4004@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:jlmachado4004@gmail.com)
+
+---
+
+💬 *Feel free to reach out about back-end development, data engineering, automation, or just to exchange ideas. I'm always happy to collaborate and learn!*
+
