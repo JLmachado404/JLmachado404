@@ -1,6 +1,6 @@
 # 👋 Hello! I'm João Lucas
 
-🎓 I'm currently majoring in **Software Engineering** at **UFMS** (Federal University of Mato Grosso do Sul), with solid experience as a Back-End Developer and growing expertise in **Data Engineering**.
+🎓 I'm majored in **Software Engineering** at **UFMS** (Federal University of Mato Grosso do Sul), with solid experience as a Back-End Developer and growing expertise in **Data Engineering**.
 
 I'm passionate about building clean, secure, and scalable systems — from APIs to automated data pipelines. I enjoy working across multidisciplinary teams and using data to drive real business impact.
 
