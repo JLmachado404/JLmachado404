@@ -2,9 +2,9 @@
 
 AI Engineer focused on **agentic AI systems**, LLM orchestration, and software architecture.
 
-I'm a Software Engineering graduate from **UFMS** and currently an M.Sc. student in **Computer Science at UFMS**, researching agentic AI architectures, static analysis, and shift-left approaches for reliable AI systems. [web:19][web:11][cite:3]
+I'm a Software Engineering graduate from **UFMS** and currently an M.Sc. student in **Computer Science at UFMS**, researching agentic AI architectures, static analysis, and shift-left approaches for reliable AI systems.
 
-Today, I work on building production-oriented AI solutions that connect research and real-world application, with experience across multi-agent systems, RAG pipelines, backend development, and technical product execution in startup environments. [cite:1][cite:2][cite:4][cite:5]
+Today, I work on building production-oriented AI solutions that connect research and real-world application, with experience across multi-agent systems, RAG pipelines, backend development, and technical product execution in startup environments. 
 
 ## Technologies
 
