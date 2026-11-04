@@ -40,7 +40,7 @@ Today, I work on building production-oriented AI solutions that connect research
 ## Languages
 
 - 🇧🇷 Portuguese — Native
-- 🇺🇸 English — Advanced
+- 🇺🇸 English — Fluent
 
 ## Connect
 
